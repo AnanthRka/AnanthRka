@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananth
 - 👀 I’m interested in Automation and Web Scraping using Python
-- 🌱 I’m currently learning JS and Android Development
+- 🌱 I’m currently learning JS and Web Development
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me : email - r.ananth04@gmail.com
 
